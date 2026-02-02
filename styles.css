@@ -36,7 +36,7 @@
 .logo {
     position: absolute;
     left: 120px;
-    background-image: url(sources/icon_pricesnap-removebg-preview.png);
+    background-image: url(icon_pricesnap-removebg-preview.png);
     height: 40px;
     width: 50px;
     background-size: contain;
@@ -470,3 +470,4 @@ ul a {
         padding: 10px 0;
     }
 }
+
