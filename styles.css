@@ -187,7 +187,7 @@ span {
 .hero-section {
     height: 400px;
     background-size: cover;
-    background-image: url(sources/Top_deals_hero.jpg);
+    background-image: url(Top_deals_hero.jpg);
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -470,4 +470,5 @@ ul a {
         padding: 10px 0;
     }
 }
+
 
